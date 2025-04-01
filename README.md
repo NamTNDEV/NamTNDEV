@@ -75,7 +75,8 @@ Feel free to give a ⭐ if you find something useful!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/namtn312002) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nhat-nam-tran-4468072a6) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namtndev312002@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:namtndev312002@gmail.com)  
+📧 Email: namtndev312002@gmail.com
 
 ---
 
