@@ -52,8 +52,7 @@ I have practical experience in Frontend development using TypeScript and modern 
 
 ## 🚀 Featured Projects
 
-- [📦 NetxEat](https://github.com/NamTNDEV/NetxEat) – A full-stack restaurant management app using **Next.js & NestJS**
-- [🧠 AI-Chatbot](https://github.com/NamTNDEV/AI-Chatbot) – Simple chatbot using **OpenAI API & React**
+- [📚 leetcode-practice](https://github.com/NamTNDEV/leetcode-practice) – Algorithm & data structure solutions written in **JavaScript** for daily practice and problem-solving.
 
 ---
 
