@@ -53,7 +53,8 @@ I have practical experience in Frontend development using TypeScript and modern 
 ## 🚀 Featured Projects
 
 - [📚 leetcode-practice](https://github.com/NamTNDEV/leetcode-practice) – Algorithm & data structure solutions written in **JavaScript** for daily practice and problem-solving.
-
+- [🎫 TicketToHome](https://github.com/NamTNDEV/ticket-to-home-api) – A **NestJS** API simulating Lunar New Year train ticket sales, focused on **performance**, **database design**, and **Elasticsearch**.
+- 
 ---
 
 ## 📊 GitHub Stats
